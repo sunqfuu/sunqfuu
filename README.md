@@ -1,6 +1,18 @@
-<h2 align="left">Hi there, I'm Sunqfu 👋<br>Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a little bit about me:<br><br>About Me<br>🔭 I’m currently working on various open-source projects.<br>🌱 I’m currently learning advanced algorithms and distributed systems.<br>👯 I’m looking to collaborate on innovative and impactful projects.<br>💬 Ask me about web development, Python, JavaScript, and cloud computing.<br>📫 How to reach me: sagir.o@outlook.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing video games and playing guitar in my free time.</h2>
+# Hi there, I'm Sunqfu 👋
 
-###
+Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a little bit about me:
+
+## About Me
+
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m currently learning advanced algorithms and distributed systems.
+- 👯 I’m looking to collaborate on innovative and impactful projects.
+- 💬 Ask me about web development, Python, JavaScript, and cloud computing.
+- 📫 How to reach me: [sagir.o@outlook.com](mailto:sagir.o@outlook.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing video games and playing guitar in my free time.
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunqfuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -41,7 +53,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-###
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/orhan-sa%C4%9F%C4%B1r-479771224/" target="_blank">
