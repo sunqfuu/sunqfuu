@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 - 🌱 I’m currently learning advanced algorithms and distributed systems.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about web development, Python, JavaScript, and cloud computing.
-- 📫 How to reach me: [sagir.o@outlook.com](mailto:sagir.o@outlook.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing video games and playing guitar in my free time.
 
