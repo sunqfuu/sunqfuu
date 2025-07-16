@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 <div align="center">
   <a href="https://open.spotify.com/user/sunqfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sunqfu&count=5&unique=true" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11135226073)
   </a>
 </div>
 
