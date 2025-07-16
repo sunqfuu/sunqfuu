@@ -64,9 +64,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 </div>
 
 ###
-<div align="center">
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11135226073)
-</div>
+
 ###
 
 
