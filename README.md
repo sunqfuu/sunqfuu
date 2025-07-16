@@ -68,9 +68,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/sunqfu">
+  
     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11135226073)
-  </a>
+
 </div>
 
 ###
