@@ -65,9 +65,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sunqfuu/count.svg?"  />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11135226073)
 
 ###
 
