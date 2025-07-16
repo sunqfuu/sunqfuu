@@ -65,7 +65,11 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11135226073)
+<div align="center">
+  <a href="https://open.spotify.com/user/11135226073">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11135226073&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
